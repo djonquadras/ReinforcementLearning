@@ -23,6 +23,8 @@
 #     for row in data:
 #         print(row)
 
-import pandas
-data = pandas.read_csv("./Tutorials/weather_data.csv")
-print(data["day"])
+#import pandas
+#data = pandas.read_csv("./Tutorials/weather_data.csv")
+#print(data["day"])
+
+
